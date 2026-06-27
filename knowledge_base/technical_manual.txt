@@ -1,0 +1,13 @@
+ABC Technologies - Technical Manual
+
+Common Installation Issues:
+If the application fails to install, ensure your system meets the minimum requirements: Windows 10 or later, macOS 11 or later, 4GB RAM minimum, and a stable internet connection.
+
+Application Crashes During File Upload:
+This is commonly caused by file size exceeding the 50MB limit, or unsupported file formats. Supported formats are: PDF, DOCX, XLSX, CSV, and PNG. Clearing the application cache often resolves crash issues related to file uploads.
+
+Login Problems:
+If a customer cannot log in, first verify they are using the correct email address associated with their account. If they have forgotten their password, direct them to use the "Forgot Password" link, which sends a reset email valid for 24 hours.
+
+Configuration Issues:
+Most configuration issues are resolved by checking the integration settings under Account > Integrations, and ensuring API keys (if used) have not expired.
